@@ -8,6 +8,9 @@ public class GitDeneme01 {
 		
 		int a = 5;
 		double b = 3.44;
+		
+		String name = "Ibrahim";
+		char c = 'A';
 	}
 
 }
